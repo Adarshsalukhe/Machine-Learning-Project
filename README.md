@@ -66,8 +66,8 @@ ________________________________________________________
    Visualize the results with confusion matrices to understand the model's strengths and weaknesses.
 
 8. Results and implementation 📊:
-   The Model achieved 99.19% Accuracy :Profit:
-   The Model achieved 0.03% Loss :Loss:
+   The Model achieved 99.19% Accuracy 📈
+   The Model achieved 0.03% Loss 📉
    
    
 
